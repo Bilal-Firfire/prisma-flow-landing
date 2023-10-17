@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    color: #d76427;
+    background-color: white;
+}
+
+#logo_header{
+    color: #d76427;
+    font-size: 1.9rem;
+    font-weight: bold;
+}
+
+.logo_navigation{
+    height: 43px;
+    width: 43px;
+    margin-right: 5px;
+}
+
+.logo_footer{
+    height: 23px;
+    width: 23px;
+}
+
+.nav-link{
+    color: #d76427;
+}
+
+.nav-link:hover{
+    color: #52260e;
+}
+
+
+#hero_title{
+    color: #d76427;
+    text-align: center;
+    font-weight: 800;
+}
+
+#sub_title{
+    color: #d76427;
+    font-weight: 400;
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+#btn_join{
+    background-color: white;
+    color: #d76427;
+    border: #d76427 2px solid;
+    width: 20%;
+}
+
+#btn_join:hover{
+        background-color: #d76427;
+        color: white;
+        
+}
+
+a{
+    text-decoration: none;
+    color: #d76427;
+}
