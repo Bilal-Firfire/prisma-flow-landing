@@ -113,3 +113,28 @@ form {
   button[type="submit"]:hover {
     background-color: #45a049;
   }
+
+
+        /* Media Query for Tablets in Portrait and Smaller Mobile Devices */
+        @media (max-width: 991px) {
+            #hero_title {
+                    color: #d76427;
+                    text-align: center;
+                    font-weight: 800;
+                    font-size: 2.4rem;
+                }
+            
+                #sub_title {
+                    color: #d76427;
+                    font-weight: 400;
+                    text-align: center;
+                    font-size: 1.0rem;
+                }
+
+                    #btn_join {
+                            background-color: white;
+                            color: #d76427;
+                            border: #d76427 2px solid;
+                            width: 50%;
+                         }
+        }
