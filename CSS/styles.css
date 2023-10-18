@@ -117,6 +117,11 @@ form {
 
         /* Media Query for Tablets in Portrait and Smaller Mobile Devices */
         @media (max-width: 991px) {
+            body{
+                font-family: 'Poppins', sans-serif;
+            }
+
+
             #hero_title {
                     color: #d76427;
                     text-align: center;
